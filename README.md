@@ -16,4 +16,4 @@ There is one additional minmax_scaler file that's used in the validation process
 
 final_requirements.txt file contains the environment information.
 
-![]('Global Semifinalists.jpg')
+![](Global Semifinalist.jpg)
