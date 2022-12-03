@@ -15,3 +15,5 @@ The final_model.h5 file is the file type suggested by Keras. It could be importe
 There is one additional minmax_scaler file that's used in the validation process. The file is generated directly through joblib.
 
 final_requirements.txt file contains the environment information.
+
+![]('Global Semifinalists.jpg')
